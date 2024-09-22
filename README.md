@@ -23,8 +23,8 @@ A real-time election results dashboard that uses web scraping and data visualiza
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/govarthenan/live-election-dash.git
-   cd live-election-dash
+   git clone https://github.com/govarthenan/live-election-dashboard.git
+   cd live-election-dashboard
    ```
 
 2. Create a virtual environment:
@@ -66,7 +66,7 @@ data = scrape_data(num_pairs=5) # Change this number to scrape more or fewer pai
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/govarthenan/live-election-dash/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/govarthenan/live-election-dashboard/issues).
 
 ## 📝 License
 
