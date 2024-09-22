@@ -1,4 +1,4 @@
-# 🗳️ Live Election Dashboard
+# 🗳️ Live Election Dashboard for 2024 Sri Lankan Presidential Election
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-v0.1.0-purple?logo=ruff&logoColor=white)
@@ -6,7 +6,12 @@
 ![Plotly](https://img.shields.io/badge/Plotly-5.0%2B-blue?logo=plotly&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-2.0%2B-orange?logo=plotly&logoColor=white)
 
-A real-time election results dashboard that uses web scraping and data visualization techniques to display live updates.
+A real-time election results dashboard for the 2024 Sri Lankan presidential election, utilizing web scraping and data visualization techniques to display live updates.
+
+## 🔗 Data Source
+
+The live election data is sourced from the official [Sri Lanka Elections Commission Results Website](https://www.results.elections.gov.lk/index.php).
+
 
 ## 🚀 Features
 
